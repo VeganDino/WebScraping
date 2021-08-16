@@ -1,4 +1,4 @@
-# 📑 웹 스크래핑 (Web Scraping)
+# 웹 스크래핑 (Web Scraping)
 
 웹 상의 HTML을 읽어와 특정 데이터를 수집하는 행위 
 
@@ -14,7 +14,7 @@
 
 ## 외부 라이브러리 설치    
 
-### Request
+### 📌 Request
 
 Requests는 HTTP 요청을 보내는 기능을 제공하는 라이브러리로 HTTP GET, POST, PUT, DELETE 등을 사용 가능하다.        
 또한 dictionary로 만든 데이터를 필요한 request 인코딩을 자동으로 처리해준다.        
@@ -36,7 +36,7 @@ https://requests.readthedocs.io/projects/3/
 
 <br/>
 
-### BeautifulSoup4
+### 📌 BeautifulSoup4
 
 BeautifulSoup4은 웹 페이지 정보를 스크랩하는 기능을 제공하는 라이브러리로 HTML과 XML 문서 등을 분석한다.      
 
@@ -51,9 +51,9 @@ https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 <br>
 
-## 간단한 웹 스크래핑
+## 🎈 간단한 웹 스크래핑
 
-🎈 깃허브 블로그 첫 페이지에 떠 있는 포스팅 스크롤링 하기
+깃허브 블로그 첫 페이지에 떠 있는 포스팅 스크롤링 하기
 
 ``` python
 import requests
