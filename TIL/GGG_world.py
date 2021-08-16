@@ -24,7 +24,7 @@ def main():
     print("\n★This is GGG world!★")
     print("I only like words that start with 'G'.")
     print("Let's cheak it out together!")
-    print("Plz write any url you want!\n")
+    print("Plz write any url or urls you want!\n")
     
     urls=input("Write : ").lower().split(",")
 
