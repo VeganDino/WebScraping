@@ -53,7 +53,7 @@ https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 ## 간단한 웹 스크래핑
 
-**[ 깃허브 블로그 첫 페이지에 떠 있는 포스팅 url 스크롤링 하기 ]**      
+**Github 블로그 첫 페이지에 떠 있는 포스팅 url 스크롤링 하기**      
 
 1. url 추출을 위해 선정한 웹 사이트를 켜둔 상태에서 ```F12```를 눌러 html 코드를 킨다.     
 2. ```ctrl + shift + c```를 누른 상태에서 원하는 곳을 클릭하면 해당 위치와 매칭 되는 html 코드를 볼 수 있다.       
