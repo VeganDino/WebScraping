@@ -62,9 +62,10 @@ https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 <br/>
 
-**코드**
 
 ![gitblog](https://user-images.githubusercontent.com/56749776/129632160-620694b6-0632-40d0-aa8d-ff409eb02ef5.png)
+
+**코드**
 
 ``` python
 import requests
