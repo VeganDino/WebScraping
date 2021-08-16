@@ -55,12 +55,14 @@ https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 **[ 깃허브 블로그 첫 페이지에 떠 있는 포스팅 url 스크롤링 하기 ]**      
 
-url 추출을 위해 선정한 웹 사이트를 켜둔 상태에서 ```F12```를 눌러 html 코드를 킨다.     
-```ctrl + shift + c```를 누른 상태에서 원하는 곳을 클릭하면 해당 위치와 매칭 되는 html 코드를 볼 수 있다.       
-웹 사이트에서 코드창으로 넘어와 해당 hmtl 코드를 마우스 오른쪽 버튼을 클릭하면 뜨는 창 중 ```Copy``` > ```copy selector``` 를 선택하면 원하는 정보의 hmtl 위치경로를 복사하게 된다.         
-find, find_all 혹은 select 함수와 html 위치경로를 사용하여 필요한 데이터를 추출한다.    
+1. url 추출을 위해 선정한 웹 사이트를 켜둔 상태에서 ```F12```를 눌러 html 코드를 킨다.     
+2. ```ctrl + shift + c```를 누른 상태에서 원하는 곳을 클릭하면 해당 위치와 매칭 되는 html 코드를 볼 수 있다.       
+3. 웹 사이트에서 코드창으로 넘어와 해당 hmtl 코드를 마우스 오른쪽 버튼을 클릭하면 뜨는 창 중 ```Copy``` > ```copy selector``` 를 선택하면 원하는 정보의 hmtl 위치경로를 복사하게 된다.         
+4. find, find_all 혹은 select 함수 등과 html 위치경로를 사용하여 필요한 데이터를 추출한다.    
 
 <br/>
+
+**코드**
 
 ![gitblog](https://user-images.githubusercontent.com/56749776/129632160-620694b6-0632-40d0-aa8d-ff409eb02ef5.png)
 
@@ -81,7 +83,8 @@ for result in results:
     count+=1
 ```
 
-결과
+**결과**
+
 ```
 # 1 :  https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/
 # 2 :  https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/
