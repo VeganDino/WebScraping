@@ -4,7 +4,7 @@
 
 |No.|Content.|Remark.|
 |------|-------|-------|
-|1|[HtmlCodeChange](TIL/HtmlCodeChange.md)|유튜브 썸네일 바꾸기|
+|1|[Html Code Change](TIL/HtmlCodeChange.md)|유튜브 썸네일 바꾸기|
 |2|[GGG_world](TIL/GGG_world.py)|url 검사|
 |3|[Wikipedia : ISO 3166-1](TIL/ISO3166.py)|국가 나열 및 검색 / url 제공|
 
