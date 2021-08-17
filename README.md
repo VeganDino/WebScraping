@@ -1,5 +1,17 @@
 # 웹 스크래핑 (Web Scraping)
 
+<br>
+
+## 목차     
+
+|No.|[Today I Learn(TIL)](TIL) Content|Remark|
+|------|-------|-------|
+|1|[GGG_world](TIL/GGG_world.py)|url 검사|
+
+<br/>
+
+## 웹 스크래핑이란?
+
 웹 상의 HTML을 읽어와 특정 데이터를 수집하는 행위 
 
 <br>
