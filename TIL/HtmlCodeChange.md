@@ -39,7 +39,7 @@
 썸네일은 이미지의 주소로 코드에 적혀있기 때문이다.        
 따라서 썸네일을 바꾸기 위해 간단히 이미지의 주소만 바꾸면 된다.        
 
-본인은 썸네일을 바꾸기 위해 pixabay라는 사이트를 이용했다.      
+본인은 썸네일을 바꾸기 위해 pixabay라는 무료 이미지 사이트를 이용했다.      
 사용하고자 하는 사진을 마우스 오른쪽 버튼으로 누르면 다음과 같은 창이 뜬다.  
 
 <br>
@@ -70,3 +70,8 @@
 <br>
 
 ![youtube_change5](https://user-images.githubusercontent.com/56749776/129785466-f67f5705-3b97-4abe-8ae9-d60f79e5c8d1.png)
+
+<br>
+
+Youtube : https://www.youtube.com/      
+Pixabay : https://pixabay.com/ko/
