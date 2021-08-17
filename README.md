@@ -1,14 +1,12 @@
 # 웹 스크래핑 (Web Scraping)
 
-<br>
-
 ## 목차     
 
 |No.|[Today I Learn(TIL)](TIL) Content|Remark|
 |------|-------|-------|
 |1|[GGG_world](TIL/GGG_world.py)|url 검사|
 
-<br/>
+<br><br/>
 
 ## 웹 스크래핑이란?
 
