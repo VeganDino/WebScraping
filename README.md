@@ -46,7 +46,7 @@ print(request.text)
 https://github.com/psf/requests     
 https://requests.readthedocs.io/projects/3/
 
-<br/>
+<br>
 
 ### 📌 BeautifulSoup4
 
@@ -60,6 +60,40 @@ request = requests.get(url)
 soup = BeautifulSoup(request.text, 'html.parser')
 ```
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+<br/>
+
+### 📌 Selenium
+
+BeautifulSoup 라이브러리만으로 다양한 사이트의 정보를 추출할 수 있지만 **자바스크립트로 동적으로 생성된 정보는 가져올 수 없다**는 한계가 있다.      
+
+만약 스크래핑을 시도하다가 아무 데이터를 가져오지 못했다면 대부분의 경우가 자바스크립트로 html을 만들어서 그렇다.   
+
+<br>
+
+따라서 Selenium 라이브러리를 사용하는 이유는 다음과 같다.
+
+1. 자바스크립트가 동적으로 만든 데이터를 크롤링 하기 위해
+2. 사이트의 다양한  html 요소에 클릭, 키보드 입력 등 이벤트를 주기 위해
+3. 반복적으로 하는 웹상의 업무 자동화
+    (ex. 자동로그인, 블로그 이웃새글 자동좋아요와 댓글 작성 등)
+
+``` python
+from selenium import webdriver
+
+url="http://google.com"
+
+# driver 경로흫 파일경로와 같은 곳에 둘 경우
+driver_same=webdriver.Chrome()
+driver_same.get(url)
+
+# driver 경로를 파일경로와 다른 곳에 둘 경우
+driver_diff=webdriver.Chrome("driver_diff의 경로")
+driver_diff.get(url)
+```    
+크롬드라이버 설치 : https://chromedriver.chromium.org/downloads
+
+<br/>
 
 <br>
 
