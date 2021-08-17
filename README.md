@@ -1,12 +1,13 @@
 # 📑 웹 스크래핑 (Web Scraping)
 
-## 목차 
+## [Today I Learn(TIL)](TIL)
 
-|No.|Content. [Today I Learn(TIL)](TIL)|Remark.|
+|No.|Content.|Remark.|
 |------|-------|-------|
-|1|[GGG_world](TIL/GGG_world.py)|url 검사|
-|2|[Wikipedia : ISO 3166-1](TIL/ISO3166.py)|국가 나열 및 검색/url 제공|
-|3|-|-|
+|1|[HtmlCodeChange](TIL/HtmlCodeChange.md|유튜브 썸네일 바꾸기|
+|2|[GGG_world](TIL/GGG_world.py)|url 검사|
+|3|[Wikipedia : ISO 3166-1](TIL/ISO3166.py)|국가 나열 및 검색 / url 제공|
+
 
 <br>
 
