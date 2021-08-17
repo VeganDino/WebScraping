@@ -5,7 +5,7 @@
 |No.|Content. [Today I Learn(TIL)](TIL)|Remark.|
 |------|-------|-------|
 |1|[GGG_world](TIL/GGG_world.py)|url 검사|
-
+|2|[Wikipedia : ISO 3166-1](TIL/ISO3166.py)|국가 나열 및 검색/url 제공|
 <br><br/>
 
 ## 웹 스크래핑이란?
