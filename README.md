@@ -2,7 +2,7 @@
 
 ## 목차     
 
-|No.|[Today I Learn(TIL)](TIL) Content|Remark|
+|No.|Content. [Today I Learn(TIL)](TIL)|Remark.|
 |------|-------|-------|
 |1|[GGG_world](TIL/GGG_world.py)|url 검사|
 
