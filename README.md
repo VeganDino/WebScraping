@@ -1,3 +1,5 @@
+<br>
+
 # 웹 스크래핑 (Web Scraping)
 
 ## 목차     
@@ -6,7 +8,7 @@
 |------|-------|-------|
 |1|[GGG_world](TIL/GGG_world.py)|url 검사|
 
-<br><br/>
+<br/>
 
 ## 웹 스크래핑이란?
 
