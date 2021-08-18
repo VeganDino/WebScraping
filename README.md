@@ -94,12 +94,7 @@ driver_diff.get(url)
 ```    
 크롬드라이버 설치 : https://chromedriver.chromium.org/downloads
 
-<br/>
-
-### 📌 Flask
-pass
-
-<br>
+<br/><br>
 
 ## 간단한 웹 스크래핑
 
