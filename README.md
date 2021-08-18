@@ -96,6 +96,9 @@ driver_diff.get(url)
 
 <br/>
 
+### 📌 Flask
+pass
+
 <br>
 
 ## 간단한 웹 스크래핑
